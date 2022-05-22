@@ -1,6 +1,6 @@
 # California-Housing-Prices-ML-project
 
-### This Project is a MAchine learning model which predicts the house's prices
+### This Project is about creating a Machine learning model which predicts the houses prices
 
 #### Note: This dataset is based on data from the 1990 California census.
 

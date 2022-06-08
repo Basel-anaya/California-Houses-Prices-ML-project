@@ -1,4 +1,4 @@
-# California-Housing-Prices-ML-project
+# California-Houses-Prices-ML-project
 
 ### This Project is about creating a Machine learning model which predicts the houses prices
 
